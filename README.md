@@ -2,4 +2,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FAL-coffee" alt="FAL-coffee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Itamaster_" target="blank"><img src="https://img.shields.io/twitter/follow/Itamaster_?logo=twitter&style=for-the-badge" alt="FAL-coffee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fal_engineer" target="blank"><img src="https://img.shields.io/twitter/follow/fal_engineer?logo=twitter&style=for-the-badge" alt="FAL-coffee" /></a> </p>
